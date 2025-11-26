@@ -11,7 +11,7 @@ I'm passionate about using generative AI models and ML to solve problems in toxi
 
 ### 🔬 What I'm into
 
-- Generative models (GANs, VAE-style hybrids) for *biological* data  
+- Generative models (GANs, VAEs, etc.) for *biological* data  
 - Toxicology, Genomics, Microbiome 
 - ML for biomedical and clinical data
 - Statistical models 
