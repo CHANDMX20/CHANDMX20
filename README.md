@@ -18,19 +18,19 @@ I'm passionate about using generative AI models and ML to solve problems in toxi
 
 ---
 
-### 🧰 Tech stack
+### 🧰 Skills
 
 **Languages & ML**
-- Python · R · SQL  
-- PyTorch / TensorFlow · scikit-learn  
-
+- Python · R · SQL · UX 
+- PyTorch / TensorFlow · scikit-learn
+- Bioinformatics: Metagenomics, Metatranscriptomics, BLAST, QIIME2, Network Analysis
+  
 ---
 
 ### 🌟 Featured projects
 
 - 🧪 **[AIVIVE](https://github.com/CHANDMX20/AIVIVE)**  
   GAN-based IVIVE framework published in *Toxicological Sciences*.
- [![DOI](https://img.shields.io/badge/DOI-10.1093/toxsci/kfaf100-blue)](https://doi.org/10.1093/toxsci/kfaf100)  
   👉 Read the paper: https://doi.org/10.1093/toxsci/kfaf100
 
 - 🦠 **[SIR Model Simulation – COVID-19](https://github.com/CHANDMX20/SIR_Model_Sim_COVID19)**  
@@ -45,13 +45,6 @@ I'm passionate about using generative AI models and ML to solve problems in toxi
 
 - 🤖 **[ML Code Examples](https://github.com/CHANDMX20/ML_code_examples)**  
   ML starter codes: regression, BERTopic, medical classification, Naive Bayes.
-
----
-
-### 📊 GitHub stats
-
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHANDMX20&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDMX20&layout=compact&theme=radical)
 
 ---
 
