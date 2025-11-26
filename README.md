@@ -3,9 +3,9 @@
 **Bioinformatics · AI/ML ·**
 
 I'm passionate about using generative AI models and ML to solve problems in toxicology and health:
-- 🧬 **AIVIVE** – GAN-based IVIVE framework for ***in vitro → in vivo*** extrapolation  
+- 🧬 Using generative AI for cross-domain translation, such as ***in vitro → in vivo*** extrapolation, treatment → control profiles, etc.
 - 🧪 Modeling toxicological responses from high-dimensional data  
-- 🧱 Building foundations for scalable data & ML workflows in healthcare  
+- 🧱 Building foundations for scalable data & ML workflows in toxicology and risk assessment  
 
 ---
 
@@ -30,6 +30,8 @@ I'm passionate about using generative AI models and ML to solve problems in toxi
 
 - 🧪 **[AIVIVE](https://github.com/CHANDMX20/AIVIVE)**  
   GAN-based IVIVE framework published in *Toxicological Sciences*.
+ [![DOI](https://img.shields.io/badge/DOI-10.1093/toxsci/kfaf100-blue)](https://doi.org/10.1093/toxsci/kfaf100)  
+  👉 Read the paper: https://doi.org/10.1093/toxsci/kfaf100
 
 - 🦠 **[SIR Model Simulation – COVID-19](https://github.com/CHANDMX20/SIR_Model_Sim_COVID19)**  
   SIR simulation with visualization and herd-immunity plots.
