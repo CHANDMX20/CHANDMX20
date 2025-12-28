@@ -43,7 +43,7 @@ I'm passionate about using generative AI models and ML to solve problems in toxi
 - 🧫 **[Network Modeling for Bacterial Communities](https://github.com/CHANDMX20/Network_modeling)**  
   SPIEC-EASI network construction + stats for 16S sequencing data.
 
-- 🤖 **[ML Code Examples](https://github.com/CHANDMX20/ML_code_examples)**  
+- 🤖 **[ML for Beginners Examples](https://github.com/CHANDMX20/ML_for_beginners)**  
   ML starter codes: regression, BERTopic, medical classification, Naive Bayes.
 
 ---
