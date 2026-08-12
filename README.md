@@ -33,7 +33,7 @@ I'm passionate about using generative AI models and ML to solve problems in toxi
   GAN-based IVIVE framework published in *Toxicological Sciences*.
 👉 Read the paper: https://doi.org/10.1093/toxsci/kfaf100
 
-- 🐁⬇️ **[GanCtrl](https://github.com/CHANDMX20/GanCtrl)**
+- 🐁⬇️ **[GanCtrl](https://github.com/CHANDMX20/GanCtrl)**  
   A generative AI (CVAE-GAN) approach to derive study-aligned synthetic controls for reducing concurrent control animal use. Pilot study published in *Toxicological Sciences*.
 👉 Read the paper: https://doi.org/10.1093/toxsci/kfag099
 
