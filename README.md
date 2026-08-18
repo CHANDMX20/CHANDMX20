@@ -1,4 +1,3 @@
-````markdown
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
@@ -203,4 +202,4 @@ I'm always interested in conversations around **AI/ML, bioinformatics, toxicolog
   <img width="100%"
        src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7B2CBF,100:00B4D8&height=100&section=footer"/>
 </p>
-```
+
