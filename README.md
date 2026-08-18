@@ -79,27 +79,9 @@ The work investigates generative modeling of control profiles with the broader o
 
 ### 💻 Programming & Data
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="34" height="34" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="34" height="34" alt="R" title="R"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="34" height="34" alt="SQL" title="SQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git"/>
-</p>
-
 `Python` · `R` · `SQL` · `Git`
 
 ### 🧠 AI & Machine Learning
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="34" height="34" alt="PyTorch" title="PyTorch"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="34" height="34" alt="TensorFlow" title="TensorFlow"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="34" height="34" alt="scikit-learn" title="scikit-learn"/>
-</p>
 
 `PyTorch` · `TensorFlow` · `scikit-learn`
 
