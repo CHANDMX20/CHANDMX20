@@ -27,7 +27,7 @@ My research focuses on translating complex biological data into computational mo
 
 Applying **generative AI and machine learning** to cross-domain biological translation, including ***in vitro → in vivo*** extrapolation.
 
-I am also interested in developing **AI-based virtual control group (VCG)** approaches using **treatment → control** and **control → control** translation of carcinogenicity-study histopathology data, with the broader goal of supporting **New Approach Methodologies (NAMs)** and the **3Rs — Replacement, Reduction, and Refinement**.
+I am also interested in developing **AI-based virtual control group (VCG)** approaches using **treatment → control** and **control → control** translation of clinical pathology profiles and carcinogenicity-study histopathology data, with the broader goal of supporting **New Approach Methodologies (NAMs)** and the **3Rs — Replacement, Reduction, and Refinement**.
 
 ### 🧪 AI/ML & Bioinformatics for Biomedical Data
 
