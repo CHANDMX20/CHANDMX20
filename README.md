@@ -13,101 +13,78 @@
 
 ---
 
-## 🧭 About
+## 👩‍🔬 About
 
-I work at the intersection of **generative AI, machine learning, bioinformatics, and biomedical data science**, with interests spanning **toxicology, risk assessment, genomics, microbiome research, and healthcare**.
+I work at the intersection of **generative AI, machine learning, bioinformatics, and biomedical data science**, developing computational approaches for complex biological and biomedical data.
 
-My research focuses on translating complex biological data into computational models for **prediction, cross-domain translation, mechanistic insight, and data-driven scientific decision-making**.
+My interests span **toxicology and risk assessment, genomics, microbiome research, histopathology, and healthcare**, with a focus on building models that enable **biological translation, prediction, and data-driven scientific discovery**.
 
 ---
 
 ## 🔬 Research Focus
 
-### 🧬 Generative AI for Toxicology & Risk Assessment
+🧬 **Generative AI for Toxicology & Risk Assessment**
+Applying generative AI and machine learning to cross-domain biological translation, including ***in vitro → in vivo*** extrapolation, and developing **AI-based virtual control group (VCG)** approaches using treatment → control and control → control translation of carcinogenicity-study histopathology data — with the broader goal of advancing **NAMs and the 3Rs**.
 
-Applying **generative AI and machine learning** to cross-domain biological translation, including ***in vitro → in vivo*** extrapolation.
+🧪 **AI/ML & Bioinformatics for Biomedical Data**
+Developing computational approaches for **high-dimensional biological and biomedical data** across genomics, toxicology, microbiome research, histopathology, and healthcare.
 
-I am also interested in developing **AI-based virtual control group (VCG)** approaches using **treatment → control** and **control → control** translation of clincial pathology profiles and carcinogenicity-study histopathology data, with the broader goal of supporting **New Approach Methodologies (NAMs)** and the **3Rs — Replacement, Reduction, and Refinement**.
-
-### 🧪 AI/ML & Bioinformatics for Biomedical Data
-
-Developing computational approaches for **high-dimensional biological and biomedical data** across:
-
-🧬 Genomics · 🦠 Microbiome · 🔬 Histopathology · 🧪 Toxicology · 🏥 Healthcare
-
-### ⚙️ Scalable Computational Research
-
-Building reproducible **bioinformatics, statistical, and machine-learning workflows** for biological research, predictive modeling, and large-scale data analysis.
-
----
-
-## 🧠 Research Methods
-
-**🤖 Generative Modeling**
-GANs · VAEs · Conditional Generative Models · Cross-Domain Translation
-
-**📊 Machine Learning & Statistics**
-Predictive Modeling · Statistical Modeling · Classification · High-Dimensional Data Analysis
-
-**🧬 Bioinformatics & Systems Biology**
-Genomics · Metagenomics · Metatranscriptomics · Microbiome · Network Analysis
-
-**🔬 Biomedical Data Analysis**
-Histopathology · Toxicology Data · Carcinogenicity Studies · Clinical & Biomedical Data
-
----
-
-## 🧰 Technical Toolkit
-
-### 💻 Programming
-
-`Python` · `R` · `SQL` · `Git`
-
-### 🧠 Machine Learning
-
-`PyTorch` · `TensorFlow` · `scikit-learn`
-
-### 🧬 Bioinformatics
-
-`Metagenomics` · `Metatranscriptomics` · `BLAST` · `QIIME2` · `Network Analysis`
-
-### 📈 Modeling & Analysis
-
-`Generative Modeling` · `Statistical Modeling` · `Predictive ML` · `Network Modeling` · `Data Visualization`
+⚙️ **Scalable Computational Research**
+Building reproducible **bioinformatics, statistical, and machine-learning workflows** for predictive modeling, biological analysis, and data-driven scientific decision-making.
 
 ---
 
 # 🌟 Selected Research
 
-## 🧬 AIVIVE
+### 🧬 AIVIVE
 
-### Generative AI for *In Vitro → In Vivo* Extrapolation
+#### AI-Aided *In Vitro → In Vivo* Extrapolation
 
-> A generative modeling framework for learning cross-domain relationships between ***in vitro*** and ***in vivo*** toxicological response profiles.
+> A generative AI framework for translating ***in vitro*** transcriptomic responses into synthetic ***in vivo*** profiles for toxicological applications.
 
-**🔎 Research themes**
-`Generative AI` · `GANs` · `IVIVE` · `Toxicology` · `Risk Assessment`
+The framework combines **GAN-based cross-domain translation** with biologically informed local optimization to model relationships between experimental systems and evaluate whether generated profiles preserve toxicologically relevant biological information.
 
-**🔗 Research outputs**
+**Research themes**
+🧠 Generative AI · 🧬 Transcriptomics · 🔄 IVIVE · 🧪 Toxicology · 📊 Risk Assessment
 
-💻 [View repository](https://github.com/CHANDMX20/AIVIVE)
-📄 [Read the publication in *Toxicological Sciences*](https://doi.org/10.1093/toxsci/kfaf100)
+💻 **[Explore the repository →](https://github.com/CHANDMX20/AIVIVE)**
+📄 **[Read the publication in *Toxicological Sciences* →](https://doi.org/10.1093/toxsci/kfaf100)**
 
 ---
 
-## 🐁 GanCtrl
+### 🐁 GanCtrl
 
-### Generative AI for Virtual Control Groups
+#### Generative AI for Virtual Control Groups
 
-> A CVAE-GAN framework for deriving **study-aligned synthetic controls**, supporting research into AI-based virtual control groups and strategies for reducing concurrent control animal use.
+> A CVAE-GAN approach for deriving **study-aligned synthetic controls** and exploring AI-enabled virtual control groups in toxicology studies.
 
-**🔎 Research themes**
-`Generative AI` · `CVAE-GAN` · `Virtual Control Groups` · `Toxicology` · `NAMs` · `3Rs`
+The work investigates generative modeling of control profiles with the broader objective of supporting approaches that can **reduce reliance on concurrent control animals** while maintaining study-relevant biological information.
 
-**🔗 Research outputs**
+**Research themes**
+🤖 Generative AI · 🧠 CVAE-GAN · 🐁 Virtual Control Groups · 🧪 Toxicology · ♻️ NAMs & 3Rs
 
-💻 [View repository](https://github.com/CHANDMX20/GanCtrl)
-📄 [Read the publication in *Toxicological Sciences*](https://doi.org/10.1093/toxsci/kfag099)
+💻 **[Explore the repository →](https://github.com/CHANDMX20/GanCtrl)**
+📄 **[Read the publication in *Toxicological Sciences* →](https://doi.org/10.1093/toxsci/kfag099)**
+
+---
+
+## 🧰 Computational Toolbox
+
+### 💻 Programming & Data
+
+**Python** · **R** · **SQL** · **Git**
+
+### 🧠 AI & Machine Learning
+
+**PyTorch** · **TensorFlow** · **scikit-learn** · Generative Modeling · Predictive ML · Statistical Modeling
+
+### 🧬 Bioinformatics
+
+Metagenomics · Metatranscriptomics · BLAST · QIIME2 · Genomics · Network Analysis
+
+### 🔬 Biomedical & Biological Analysis
+
+Transcriptomics · Histopathology · Toxicological Data · Microbiome · High-Dimensional Data Analysis · Data Visualization
 
 ---
 
@@ -118,12 +95,13 @@ Histopathology · Toxicology Data · Carcinogenicity Studies · Clinical & Biome
 
 <br>
 
-Microbial network construction and statistical analysis using **SPIEC-EASI** for 16S sequencing data.
+**Microbial community network analysis using 16S sequencing data**
 
-**🔎 Methods**
-`Microbiome` · `16S Sequencing` · `SPIEC-EASI` · `Network Analysis`
+SPIEC-EASI network construction and statistical analysis for studying relationships within bacterial communities.
 
-💻 [View repository](https://github.com/CHANDMX20/Network_modeling)
+🧬 **Methods:** Microbiome · 16S Sequencing · SPIEC-EASI · Network Analysis
+
+💻 **[View repository →](https://github.com/CHANDMX20/Network_modeling)**
 
 </details>
 
@@ -134,12 +112,13 @@ Microbial network construction and statistical analysis using **SPIEC-EASI** for
 
 <br>
 
-Compartmental modeling of infectious-disease dynamics using an **SIR framework**, including epidemic visualization and herd-immunity analyses.
+**Mathematical modeling of infectious-disease dynamics**
 
-**🔎 Methods**
-`Epidemiology` · `Mathematical Modeling` · `Simulation` · `Visualization`
+SIR-based simulation with visualization of epidemic dynamics and herd-immunity behavior.
 
-💻 [View repository](https://github.com/CHANDMX20/SIR_Model_Sim_COVID19)
+📊 **Methods:** Epidemiology · Mathematical Modeling · Simulation · Visualization
+
+💻 **[View repository →](https://github.com/CHANDMX20/SIR_Model_Sim_COVID19)**
 
 </details>
 
@@ -150,36 +129,38 @@ Compartmental modeling of infectious-disease dynamics using an **SIR framework**
 
 <br>
 
-A collection of machine-learning implementations spanning:
+**Applied machine-learning implementations across several problem types**
 
-* 📈 Regression
-* 🧠 BERTopic
-* 🏥 Medical classification
-* 📊 Naive Bayes
-* ⚙️ General ML workflows
+Examples include:
 
-💻 [View repository](https://github.com/CHANDMX20/ML_for_beginners)
+📈 Regression
+🧠 BERTopic
+🏥 Medical classification
+📊 Naive Bayes
+⚙️ General ML workflows
+
+💻 **[View repository →](https://github.com/CHANDMX20/ML_for_beginners)**
 
 </details>
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
-Interested in conversations and collaborations around **generative AI, bioinformatics, toxicology, genomics, and computational biomedical research**.
+I’m interested in conversations and collaborations at the intersection of **AI/ML, bioinformatics, toxicology, genomics, and computational biomedical research**.
 
 🔗 **LinkedIn:** [Mansi Chandra](https://www.linkedin.com/in/mansi-chandra-6992001bb/)
 ✉️ **Email:** [mchandra@ualr.edu](mailto:mchandra@ualr.edu)
 
----
+<br>
 
 <p align="center">
-  <i>Computational methods for understanding biological systems, predicting toxicity, and advancing human-relevant science.</i>
+  <i>Computational approaches for translating biological data, modeling toxicity, and advancing human-relevant science.</i>
 </p>
 
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:164E63,100:312E81&height=35&section=footer"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:164E63,100:312E81&height=32&section=footer"
   />
 </p>
