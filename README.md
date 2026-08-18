@@ -159,6 +159,7 @@ Examples include:
 
 Interested in conversations and collaborations at the intersection of **generative AI, bioinformatics, toxicology, genomics, and computational biomedical research**.
 
+🎓 **Google Scholar:** [Mansi Chandra](https://scholar.google.com/citations?hl=en&user=c-izvNEAAAAJ) 
 🔗 **LinkedIn:** [Mansi Chandra](https://www.linkedin.com/in/mansi-chandra-6992001bb/)
 ✉️ **Email:** [mchandra@ualr.edu](mailto:mchandra@ualr.edu)
 
