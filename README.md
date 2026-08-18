@@ -4,8 +4,8 @@
 
 I'm passionate about using generative AI and machine learning to solve problems across toxicology, genomics, and healthcare:
 
-🧬 Applying generative AI and ML to toxicology and risk assessment, including cross-domain translation such as in vitro → in vivo extrapolation and treatment → control modeling, with applications to NAMs and the 3Rs
-🧪 Developing AI/ML and bioinformatics approaches for high-dimensional biological and biomedical data, spanning genomics, toxicology, and healthcare
+🧬 Applying generative AI and ML to toxicology and risk assessment, including cross-domain translation such as in vitro → in vivo extrapolation and treatment → control modeling, with applications to NAMs and the 3Rs  
+🧪 Developing AI/ML and bioinformatics approaches for high-dimensional biological and biomedical data, spanning genomics, toxicology, and healthcare  
 🧱 Building scalable data, bioinformatics, and ML workflows for biological research, predictive modeling, and data-driven decision-making
 
 ---
