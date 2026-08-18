@@ -31,9 +31,7 @@ I am also interested in developing **AI-based virtual control group (VCG)** appr
 
 ### 🧪 AI/ML & Bioinformatics for Biomedical Data
 
-Developing computational approaches for **high-dimensional biological and biomedical data** across:
-
-🧬 Genomics · 🦠 Microbiome · 🔬 Histopathology · 🧪 Toxicology · 🏥 Healthcare
+Developing computational approaches for **high-dimensional biological and biomedical data** spanning genomics, microbiome research, histopathology, toxicology, and healthcare.
 
 ### ⚙️ Scalable Computational Research
 
@@ -51,7 +49,7 @@ Building reproducible **bioinformatics, statistical, and machine-learning workfl
 
 The framework uses **GAN-based cross-domain translation** to model relationships between experimental systems and evaluate whether generated profiles preserve toxicologically relevant biological information.
 
-**🔎 Research themes**
+**Research themes**
 `Generative AI` · `GANs` · `IVIVE` · `Transcriptomics` · `Toxicology` · `Risk Assessment`
 
 💻 **[Explore the repository →](https://github.com/CHANDMX20/AIVIVE)**
@@ -67,7 +65,7 @@ The framework uses **GAN-based cross-domain translation** to model relationships
 
 The work investigates generative modeling of control profiles with the broader objective of supporting approaches that can **reduce reliance on concurrent control animals** while preserving study-relevant biological information.
 
-**🔎 Research themes**
+**Research themes**
 `Generative AI` · `CVAE-GAN` · `Virtual Control Groups` · `Toxicology` · `NAMs` · `3Rs`
 
 💻 **[Explore the repository →](https://github.com/CHANDMX20/GanCtrl)**
@@ -84,30 +82,17 @@ The work investigates generative modeling of control profiles with the broader o
 ### 🧠 AI & Machine Learning
 
 `PyTorch` · `TensorFlow` · `scikit-learn`
-
-🤖 `Generative Modeling`   ·  
-📈 `Predictive ML`   ·  
-📊 `Statistical Modeling`
+`Generative Modeling` · `Predictive ML` · `Statistical Modeling`
 
 ### 🧬 Bioinformatics & Computational Biology
 
-🧬 `Genomics`   ·  
-🦠 `Metagenomics`   ·  
-🧫 `Metatranscriptomics`
-
-🔎 `BLAST`   ·  
-🧪 `QIIME2`   ·  
-🕸️ `Network Analysis`
+`Genomics` · `Metagenomics` · `Metatranscriptomics`
+`BLAST` · `QIIME2` · `Network Analysis`
 
 ### 🔬 Biomedical Data Science
 
-🔬 `Histopathology`   ·  
-🧪 `Toxicology`   ·  
-🧬 `Transcriptomics`
-
-🐁 `Carcinogenicity Studies`   ·  
-📊 `High-Dimensional Data`   ·  
-📈 `Data Visualization`
+`Histopathology` · `Toxicology` · `Transcriptomics`
+`Carcinogenicity Studies` · `High-Dimensional Data` · `Data Visualization`
 
 ---
 
@@ -122,7 +107,7 @@ The work investigates generative modeling of control profiles with the broader o
 
 SPIEC-EASI network construction and statistical analysis for studying relationships within bacterial communities.
 
-**🔎 Methods**
+**Methods**
 `Microbiome` · `16S Sequencing` · `SPIEC-EASI` · `Network Analysis`
 
 💻 **[View repository →](https://github.com/CHANDMX20/Network_modeling)**
@@ -140,7 +125,7 @@ SPIEC-EASI network construction and statistical analysis for studying relationsh
 
 SIR-based simulation with visualization of epidemic dynamics and herd-immunity behavior.
 
-**🔎 Methods**
+**Methods**
 `Epidemiology` · `Mathematical Modeling` · `Simulation` · `Visualization`
 
 💻 **[View repository →](https://github.com/CHANDMX20/SIR_Model_Sim_COVID19)**
@@ -158,11 +143,11 @@ SIR-based simulation with visualization of epidemic dynamics and herd-immunity b
 
 Examples include:
 
-* 📈 Regression
-* 🧠 BERTopic
-* 🏥 Medical classification
-* 📊 Naive Bayes
-* ⚙️ General ML workflows
+* Regression
+* BERTopic
+* Medical classification
+* Naive Bayes
+* General ML workflows
 
 💻 **[View repository →](https://github.com/CHANDMX20/ML_for_beginners)**
 
