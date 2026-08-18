@@ -3,7 +3,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:164E63,100:312E81&height=150&section=header&text=Mansi%20Chandra&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Bioinformatics%20%C2%B7%20Generative%20AI%20%C2%B7%20Biomedical%20Data%20Science&descAlignY=66&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:164E63,100:312E81&height=150&section=header&text=Mansi%20Chandra&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Bioinformatics%20%C2%B7%20Generative%20AI%20%C2%B7%20Biomedical%20Data%20Science&descAlignY=66&descSize=17&animation=fadeIn"
   />
 </p>
 
@@ -39,11 +39,11 @@ Building reproducible **bioinformatics, statistical, and machine-learning workfl
 
 ---
 
-# 🌟 Selected Research
+## 🌟 Selected Research
 
-## 🧬 AIVIVE
+### 🧬 AIVIVE
 
-### AI-Aided *In Vitro → In Vivo* Extrapolation
+#### AI-Aided *In Vitro → In Vivo* Extrapolation
 
 > A generative AI framework for translating ***in vitro*** transcriptomic responses into synthetic ***in vivo*** profiles for toxicological applications.
 
@@ -57,9 +57,9 @@ The framework uses **GAN-based cross-domain translation** to model relationships
 
 ---
 
-## 🐁 GanCtrl
+### 🐁 GanCtrl
 
-### Generative AI for Virtual Control Groups
+#### Generative AI for Virtual Control Groups
 
 > A CVAE-GAN approach for deriving **study-aligned synthetic controls** and exploring AI-enabled virtual control groups in toxicology studies.
 
@@ -159,7 +159,7 @@ Examples include:
 
 Interested in conversations and collaborations at the intersection of **generative AI, bioinformatics, toxicology, genomics, and computational biomedical research**.
 
-🎓 **Google Scholar:** [Mansi Chandra](https://scholar.google.com/citations?hl=en&user=c-izvNEAAAAJ) 
+🎓 **Google Scholar:** [Mansi Chandra](https://scholar.google.com/citations?hl=en&user=c-izvNEAAAAJ)
 🔗 **LinkedIn:** [Mansi Chandra](https://www.linkedin.com/in/mansi-chandra-6992001bb/)
 ✉️ **Email:** [mchandra@ualr.edu](mailto:mchandra@ualr.edu)
 
