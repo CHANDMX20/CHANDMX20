@@ -24,7 +24,7 @@ My interests span **toxicology and risk assessment, genomics, microbiome researc
 ## 🔬 Research Focus
 
 🧬 **Generative AI for Toxicology & Risk Assessment**
-Applying generative AI and machine learning to cross-domain biological translation, including ***in vitro → in vivo*** extrapolation, and developing **AI-based virtual control group (VCG)** approaches using treatment → control and control → control translation of carcinogenicity-study histopathology data — with the broader goal of advancing **NAMs and the 3Rs**.
+Applying generative AI and machine learning to cross-domain biological translation, including ***in vitro → in vivo*** extrapolation, and developing **AI-based virtual control group (VCG)** approaches using treatment → control and control → control translation of clinical pathology profiles and carcinogenicity-study histopathology data — with the broader goal of advancing **NAMs and the 3Rs**.
 
 🧪 **AI/ML & Bioinformatics for Biomedical Data**
 Developing computational approaches for **high-dimensional biological and biomedical data** across genomics, toxicology, microbiome research, histopathology, and healthcare.
